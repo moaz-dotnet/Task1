@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarpetsClean", "arr\CarpetsClean.csproj", "{0702D404-D085-42C6-AC50-6D30D2DC3B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0702D404-D085-42C6-AC50-6D30D2DC3B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0702D404-D085-42C6-AC50-6D30D2DC3B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0702D404-D085-42C6-AC50-6D30D2DC3B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0702D404-D085-42C6-AC50-6D30D2DC3B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35FE9863-C04F-4391-A4B3-E7411D2497FC}
+	EndGlobalSection
+EndGlobal
